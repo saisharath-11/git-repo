@@ -2,4 +2,4 @@ console.log('version 3')
 
 console.log('index.js')
 
-console.log('name is sharath')
+console.log('bug fix')
